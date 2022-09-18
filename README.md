@@ -65,5 +65,6 @@
 <h1> Contato </h1>
 <div>
     <a href = "mailto:fernando-maldonado@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+    <br/>
     <a href="https://www.linkedin.com/in/fernando-maldonado-fernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>

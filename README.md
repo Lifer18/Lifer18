@@ -1,11 +1,12 @@
 <h1> Sobre mim </h1>
 
-- Atualmente estudante de **Desenvolvimento de Software Multiplataforma** na <a href="https://fatecararas.cps.sp.gov.br/">Fatec Araras</a>.
+- Atualmente estudante no 2º Semestre de **Desenvolvimento de Software Multiplataforma** na <a href="https://fatecararas.cps.sp.gov.br/">Fatec Araras</a>.
 
 - Formado em **Informatica para internet** na <a href="http://www.albertoferes.com.br">Etec Pref. Alberto Feres</a>
 
-- Interessado por desenvolvimento back-end
+Me chamo Fernando Maldonado Fernandes , tenho interesse pelo mundo da programação (back-end) desde meu primeiro curso em 2016, possuo facilidade em aprender e tenho rápida compreensão de lógica de programação.
 
+Atualmente estou a procura de iniciar no mercado de Desenvolvimento, tenho conhecimentos em C++ e PHP e estou atualmente interessado e estudando Java.
 </br>
 
 <h1> Stats </h1>

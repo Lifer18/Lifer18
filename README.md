@@ -6,7 +6,7 @@
 
 Me chamo Fernando Maldonado Fernandes , tenho interesse pelo mundo da programação (back-end) desde meu primeiro curso em 2016, possuo facilidade em aprender e tenho rápida compreensão de lógica de programação.
 
-Atualmente estou a procura de iniciar no mercado de Desenvolvimento, tenho conhecimentos em C++ e PHP e estou atualmente interessado e estudando Java.
+Atualmente estou a procura de iniciar no mercado de Desenvolvimento, tenho conhecimentos em C++ e PHP e Java.
 </br>
 
 <h1> Stats </h1>

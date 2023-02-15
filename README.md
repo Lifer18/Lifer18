@@ -1,6 +1,6 @@
 <h1> Sobre mim </h1>
 
-- Atualmente estudante no 2º Semestre de **Desenvolvimento de Software Multiplataforma** na <a href="https://fatecararas.cps.sp.gov.br/">Fatec Araras</a>.
+- Atualmente estudante no 3º Semestre de **Desenvolvimento de Software Multiplataforma** na <a href="https://fatecararas.cps.sp.gov.br/">Fatec Araras</a>.
 
 - Formado em **Informatica para internet** na <a href="http://www.albertoferes.com.br">Etec Pref. Alberto Feres</a>
 
